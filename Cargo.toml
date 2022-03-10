@@ -1,0 +1,9 @@
+[package]
+name = "deep-clone"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/That3Percent/deep-clone"
+description = "Like Clone, but bypassing structural sharing"
+
+[dependencies]
